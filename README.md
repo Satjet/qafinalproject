@@ -46,6 +46,7 @@ Project is to link up a Celebrity Chef with choice of 3 receipes for the user to
 * Photo of finished item, 
 * Additional Task: User information to stored on database.
 * Additional Task: store more recipies on database linking to Chef.
+* Additional Task: add in more chefs with recipes expanding the use of database.
 
 ## Check Tasks:      
 
